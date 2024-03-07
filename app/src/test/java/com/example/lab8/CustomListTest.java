@@ -60,11 +60,4 @@ public class CustomListTest {
         list.addCity(new City("Moose Jaw", "SK"));
         assertEquals(list.getCount(),4);
     }
-
-
-
-
-
-
-
 }
